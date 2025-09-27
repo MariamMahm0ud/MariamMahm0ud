@@ -4,12 +4,12 @@
 
 📍 Alexandria, Egypt (Open to relocation)  
 📧 mariem.mahmoud15@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/mariam-mahmoud-a0a8a918b/]) | [Kaggle](https://kaggle.com/your-link) | [Portfolio Website](https://your-portfolio.com)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/mariam-mahmoud-a0a8a918b/]) 
 
 ---
 
 ## 🚀 About Me  
-I am an **AI & Data Engineer** passionate about building **scalable, intelligent, and data-driven systems** that solve real business challenges.  
+I am an **AI & Data Scientist** passionate about building **scalable, intelligent, and data-driven systems** that solve real business challenges.  
 With hands-on experience in **data migration, analysis, ML/DL models, and ERP systems (SAP)**, I bring a unique blend of **engineering and AI expertise**.  
 
 💡 My core strengths:  
@@ -33,21 +33,21 @@ With hands-on experience in **data migration, analysis, ML/DL models, and ERP sy
 
 ## 📂 Featured Projects  
 
-### 🧠 [Facial Direction Detection](https://github.com/MariamMahm0ud/facial-direction-detection)  
+### 🧠 [Facial Direction Detection](https://github.com/MariamMahm0ud/-Facial-Direction-Detection-with-Machine-Learning)  
 - Built using **OpenCV + MediaPipe + SVR** for real-time facial direction detection.  
 
-### 💳 [Credit Card Clustering](https://github.com/MariamMahm0ud/credit-card-clustering)  
+### 💳 [Credit Card Clustering](https://github.com/MariamMahm0ud/Credit-Card-segmentation-deploy)  
 - Customer segmentation using **K-Means, DBSCAN, PCA, t-SNE** with **Streamlit dashboards**.  
 
-### 🌍 [Arabic Dialect Classification](https://github.com/MariamMahm0ud/arabic-dialect-classifier)  
+### 🌍 [Arabic Dialect Classification](https://github.com/MariamMahm0ud/Arabic-Dialect-Classification)  
 - NLP-based dialect classifier with **Logistic Regression, Naive Bayes & Deep Learning models**.  
 - Deployed with **Flask API + Dash Web App**.  
 
-### 👗 [Fashion Recommendation System](https://github.com/MariamMahm0ud/fashion-recommender)  
+### 👗 [Fashion Recommendation System](https://github.com/MariamMahm0ud/Fashion-Recommendation-systems-TwentyToo-ITI-graduation-project-)  
 - Hybrid recommender using **Fashion CLIP, Two-Tower Model, FP-Growth**.  
 - Deployed with **Flask + PyTorch + Pinecone**.  
 
-### 🎬 [MovieLens Recommender System](https://github.com/MariamMahm0ud/movielens-recommender)  
+### 🎬 [MovieLens Recommender System](https://github.com/MariamMahm0ud/Recommendation-System-For-MovieLens)  
 - Personalized movie recommendations using **Deep Factorization Machine + Cosine Similarity**.  
 - Interactive dashboard built with **Dash + Plotly**.  
 
