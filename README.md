@@ -4,13 +4,14 @@
 
 📍 Alexandria, Egypt (Open to relocation)  
 📧 mariem.mahmoud15@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/mariam-mahmoud-a0a8a918b/]) 
+🔗 [LinkedIn](https://www.linkedin.com/in/mariam-mahmoud-a0a8a918b/)
+
 
 ---
 
 ## 🚀 About Me  
-I am an **AI & Data Scientist** passionate about building **scalable, intelligent, and data-driven systems** that solve real business challenges.  
-With hands-on experience in **data migration, analysis, ML/DL models, and ERP systems (SAP)**, I bring a unique blend of **engineering and AI expertise**.  
+I am an **AI & Data Scientist** with experience in **data migration, analytics, and ML/DL solutions**.  
+I specialize in turning raw data into actionable insights and deploying scalable AI-powered systems.  
 
 💡 My core strengths:  
 - Data Engineering (ETL, Big Data, Cloud)  
@@ -57,6 +58,8 @@ With hands-on experience in **data migration, analysis, ML/DL models, and ERP sy
 
 ![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamMahm0ud&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamMahm0ud&layout=compact&theme=tokyonight)  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MariamMahm0ud)  
+![trophy](https://github-profile-trophy.vercel.app/?username=MariamMahm0ud&theme=tokyonight&row=1&column=6)
 
 ---
 
